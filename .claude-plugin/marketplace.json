@@ -1,0 +1,14 @@
+{
+  "name": "quartz-mcp-marketplace",
+  "owner": {
+    "name": "Quartz Technologies",
+    "url": "https://qtzit.com"
+  },
+  "plugins": [
+    {
+      "name": "quartz-mcp",
+      "source": "./quartz-mcp",
+      "description": "Connects Claude to the Quartz MDM platform via MCP, and installs the usage guidance skill automatically."
+    }
+  ]
+}
