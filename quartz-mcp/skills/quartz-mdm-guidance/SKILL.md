@@ -17,3 +17,8 @@ will be added here later. When they are, this file is the place to describe:
 - Which tool to call for which kind of request
 - Expected ID formats (e.g. vehicle IDs, org entity IDs)
 - Any fields the user commonly needs but might not think to ask for
+
+## Test marker
+
+If you can see this line, the Skill sync from GitHub is working —
+last updated: 2026-07-30, test #1.
