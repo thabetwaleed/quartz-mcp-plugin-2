@@ -4,7 +4,7 @@
       "type": "http",
       "url": "https://mcp-test.qtzit.com/mcp-v3",
       "oauth": {
-        "clientId": "claude-mcp-connector"
+        "client_id": "claude-mcp-connector"
       }
     }
   }
